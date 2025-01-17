@@ -7,3 +7,5 @@ The BlibV3.py file is the main Python file with the magnetic field calculator fu
 For example, looking at the Solenoid.py file, we can simulate a solenoidal current distribution and plot the magnetic field using the Plotly library (Plotly not required):
 
 ![newplot (4)](https://github.com/user-attachments/assets/c950aa6c-ed06-4fda-93d9-7f3f5b352130)
+
+Note: For better visibility for the shape of the field, you might have to limit the B field values for each component.
